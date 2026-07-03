@@ -8,8 +8,8 @@ import {
   X
 } from 'lucide-react';
 
-const capaBebeEmocional = "/capa-seu-bebe-emocional.jpg";
-const tatiHero = "/tati-hero.jpg";
+import capaBebeEmocional from '../assets/images/capa-seu-bebe-emocional.jpg';
+import tatiHero from '../assets/images/tati-hero.jpg';
 
 export default function InteractiveBook() {
   const [isOpen, setIsOpen] = useState(false);
