@@ -1,0 +1,6 @@
+{
+  "name": "E-book Cuidados Emocionais do Bebê",
+  "description": "Landing page de alta conversão para o e-book da Psicóloga Tatiana Lessa sobre os cuidados emocionais do bebê nos primeiros meses de vida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
