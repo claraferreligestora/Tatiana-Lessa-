@@ -6,15 +6,13 @@ import {
   ShieldCheck
 } from 'lucide-react';
 import InteractiveBook from './components/InteractiveBook';
-
-import depoimentoCristina from './assets/images/depoimento_cristina_1783034843972.jpg';
-import depoimentoCristine from './assets/images/depoimento_cristine_1783034834940.jpg';
-import depoimentoLidia from './assets/images/depoimento_lidia_1783034824990.jpg';
-import depoimentoMarina from './assets/images/depoimento_marina_1783034853060.jpg';
-
-import capaBebeEmocional from './assets/images/capa-seu-bebe-emocional.jpg';
-import tatiBio from './assets/images/tati-bio.jpg';
-import tatiEbook from './assets/images/tati-ebook.jpg';
+const depoimentoCristina = '/depoimento-cristina.png';
+const depoimentoCristine = '/depoimento-cristine.png';
+const depoimentoLidia = '/depoimento-lidia.png';
+const depoimentoMarina = '/-marina.png';
+const capaBebeEmocional = '/capa-seu-bebe-emocional.png';
+const tatiBio = '/tati-bio.png';
+const tatiEbook = '/tati-ebook.png';';
 
 
 export default function App() {
